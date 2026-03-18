@@ -1,0 +1,560 @@
+OrderID,Date,ProductName,Category,City,State,Quantity,UnitPrice,Discount,DeliveryStatus,Rating,TotalSale
+ORD100000,2024-10-14,Printed Kurti,Fashion,Mumbai,Maharashtra,1,216.44,0.0,Returned,,216.44
+ORD100001,2024-02-24,Makeup Kit,Beauty,Hyderabad,Telangana,1,645.67,0.15,Pending,,548.8195
+ORD100002,2024-02-03,Printed Kurti,Fashion,Surat,Gujarat,1,375.74,0.0,Pending,,375.74
+ORD100003,2024-01-12,Kids Toy Car,Toys,Mumbai,Maharashtra,1,392.45,0.05,Delivered,4.0,372.8275
+ORD100004,2024-07-15,Makeup Kit,Beauty,Hyderabad,Telangana,1,246.15,0.0,Pending,,246.15
+ORD100005,2024-03-18,Wooden Side Table,Home,Surat,Gujarat,1,644.27,0.05,Pending,,612.0564999999999
+ORD100006,2024-03-26,Formal Shirt,Fashion,Pune,Maharashtra,1,570.26,0.05,Returned,,541.747
+ORD100007,2024-11-10,Scented Candle,Home,Chennai,Tamil Nadu,1,122.58,0.1,Delivered,4.0,110.322
+ORD100008,2024-05-12,LED Bulb Pack,Electronics,Pune,Maharashtra,1,369.92,0.0,Returned,,369.92
+ORD100009,2024-10-23,LED Bulb Pack,Electronics,Hyderabad,Telangana,1,834.23,0.05,Returned,,792.5185
+ORD100010,2024-05-27,Printed Kurti,Fashion,Delhi,Delhi,1,389.91,0.2,Delivered,4.0,311.92800000000005
+ORD100011,2024-08-22,Yoga Mat,Fitness,Kolkata,West Bengal,1,548.34,0.0,Returned,,548.34
+ORD100012,2024-07-27,Wooden Side Table,Home,Ahmedabad,Gujarat,1,151.54,0.3,Delivered,5.0,106.07799999999999
+ORD100013,2024-08-02,Kids Toy Car,Toys,Delhi,Delhi,2,609.06,0.2,Returned,,974.496
+ORD100014,2024-08-12,Scented Candle,Home,Kolkata,West Bengal,1,247.27,0.0,Delivered,5.0,247.27
+ORD100015,2024-09-13,Printed Kurti,Fashion,Mumbai,Maharashtra,1,75.01,0.0,Delivered,4.0,75.01
+ORD100016,2024-11-28,Phone Cover,Accessories,Delhi,Delhi,1,724.64,0.1,Delivered,5.0,652.176
+ORD100017,2024-04-17,Printed Kurti,Fashion,Pune,Maharashtra,1,816.32,0.05,Returned,,775.504
+ORD100018,2024-05-23,Yoga Mat,Fitness,Bengaluru,Karnataka,1,649.38,0.0,Returned,,649.38
+ORD100019,2024-09-29,Makeup Kit,Beauty,Chennai,Tamil Nadu,1,842.66,0.0,Pending,,842.66
+ORD100020,2024-09-03,Printed Kurti,Fashion,Jaipur,Rajasthan,1,793.76,0.2,Delivered,4.0,635.008
+ORD100021,2024-03-04,Formal Shirt,Fashion,Hyderabad,Telangana,1,956.87,0.1,Returned,,861.183
+ORD100022,2024-12-25,Kids Toy Car,Toys,Chennai,Tamil Nadu,1,998.63,0.05,Pending,,948.6985
+ORD100023,2024-09-22,Formal Shirt,Fashion,Hyderabad,Telangana,1,651.45,0.05,Returned,,618.8775
+ORD100024,2024-11-15,Wooden Side Table,Home,Hyderabad,Telangana,1,124.37,0.05,Delivered,5.0,118.1515
+ORD100025,2024-04-13,Yoga Mat,Fitness,Pune,Maharashtra,1,862.75,0.05,Delivered,5.0,819.6125
+ORD100026,2024-12-06,Makeup Kit,Beauty,Jaipur,Rajasthan,1,486.35,0.0,Pending,,486.35
+ORD100027,2024-09-11,Yoga Mat,Fitness,Hyderabad,Telangana,2,421.94,0.15,Returned,,717.298
+ORD100028,2024-02-25,Kids Toy Car,Toys,Ahmedabad,Gujarat,1,550.47,0.0,Returned,,550.47
+ORD100029,2024-10-16,LED Bulb Pack,Electronics,Hyderabad,Telangana,2,644.35,0.05,Pending,,1224.2649999999999
+ORD100030,2024-10-17,Formal Shirt,Fashion,Chennai,Tamil Nadu,1,457.21,0.0,Pending,,457.21
+ORD100031,2024-06-04,Kids Toy Car,Toys,Jaipur,Rajasthan,1,751.94,0.05,Returned,,714.3430000000001
+ORD100032,2024-07-16,Makeup Kit,Beauty,Bengaluru,Karnataka,1,346.55,0.0,Returned,,346.55
+ORD100033,2024-11-30,Printed Kurti,Fashion,Mumbai,Maharashtra,1,653.66,0.0,Delivered,5.0,653.66
+ORD100034,2024-11-03,LED Bulb Pack,Electronics,Bengaluru,Karnataka,1,1115.86,0.05,Pending,,1060.0669999999998
+ORD100035,2024-01-25,Kids Toy Car,Toys,Jaipur,Rajasthan,3,602.37,0.3,Returned,,1264.977
+ORD100036,2024-06-30,Kids Toy Car,Toys,Jaipur,Rajasthan,1,125.63,0.0,Pending,,125.63
+ORD100037,2024-11-30,Phone Cover,Accessories,Surat,Gujarat,1,542.05,0.1,Delivered,4.0,487.84499999999997
+ORD100038,2024-10-18,Printed Kurti,Fashion,Surat,Gujarat,1,693.33,0.0,Returned,,693.33
+ORD100039,2024-04-23,Yoga Mat,Fitness,Delhi,Delhi,1,472.29,0.05,Returned,,448.6755
+ORD100040,2024-01-02,LED Bulb Pack,Electronics,Ahmedabad,Gujarat,3,780.19,0.15,Pending,,1989.4845
+ORD100041,2024-10-22,Phone Cover,Accessories,Surat,Gujarat,1,205.06,0.1,Delivered,4.0,184.554
+ORD100042,2024-12-04,Formal Shirt,Fashion,Delhi,Delhi,1,726.06,0.0,Pending,,726.06
+ORD100043,2024-08-24,Phone Cover,Accessories,Surat,Gujarat,1,1207.14,0.0,Delivered,4.0,1207.14
+ORD100044,2024-10-23,LED Bulb Pack,Electronics,Kolkata,West Bengal,1,1061.98,0.0,Delivered,4.0,1061.98
+ORD100045,2024-12-22,Formal Shirt,Fashion,Surat,Gujarat,1,812.08,0.1,Delivered,4.0,730.8720000000001
+ORD100046,2024-07-08,Scented Candle,Home,Kolkata,West Bengal,1,736.16,0.0,Delivered,4.0,736.16
+ORD100047,2024-12-07,Printed Kurti,Fashion,Kolkata,West Bengal,1,501.72,0.2,Returned,,401.37600000000003
+ORD100049,2024-10-11,Printed Kurti,Fashion,Delhi,Delhi,1,180.74,0.05,Returned,,171.703
+ORD100050,2024-10-24,Printed Kurti,Fashion,Surat,Gujarat,1,627.96,0.0,Delivered,4.0,627.96
+ORD100051,2024-08-01,LED Bulb Pack,Electronics,Ahmedabad,Gujarat,1,784.55,0.2,Delivered,5.0,627.64
+ORD100052,2024-12-04,Phone Cover,Accessories,Surat,Gujarat,1,345.99,0.0,Pending,,345.99
+ORD100053,2024-12-26,Kids Toy Car,Toys,Hyderabad,Telangana,2,619.68,0.1,Pending,,1115.424
+ORD100054,2024-06-03,Makeup Kit,Beauty,Chennai,Tamil Nadu,1,637.92,0.0,Pending,,637.92
+ORD100055,2024-12-15,Unknown Product,Fitness,Unknown,Unknown,1,550.47,0.05,Pending,,522.9465
+ORD100056,2024-04-06,Stainless Tiffin,Kitchen,Delhi,Delhi,1,192.61,0.1,Delivered,4.0,173.34900000000002
+ORD100057,2024-01-09,Printed Kurti,Fashion,Kolkata,West Bengal,1,746.97,0.1,Pending,,672.273
+ORD100058,2024-08-16,Formal Shirt,Fashion,Hyderabad,Telangana,1,677.35,0.05,Delivered,3.0,643.4825
+ORD100059,2024-10-01,Wooden Side Table,Home,Delhi,Delhi,1,832.16,0.0,Pending,,832.16
+ORD100060,2024-01-27,Wooden Side Table,Home,Hyderabad,Telangana,1,526.87,0.2,Delivered,4.0,421.49600000000004
+ORD100062,2024-03-24,Phone Cover,Accessories,Ahmedabad,Gujarat,1,737.7,0.0,Pending,,737.7
+ORD100063,2024-08-11,LED Bulb Pack,Electronics,Jaipur,Rajasthan,1,292.85,0.1,Returned,,263.56500000000005
+ORD100064,2024-11-09,Makeup Kit,Beauty,Ahmedabad,Gujarat,1,482.96,0.0,Returned,,482.96
+ORD100065,2024-02-07,Makeup Kit,Beauty,Delhi,Delhi,2,764.2,0.05,Pending,,1451.98
+ORD100066,2024-06-13,Kids Toy Car,Toys,Kolkata,West Bengal,3,295.96,0.15,Returned,,754.6979999999999
+ORD100067,2024-09-18,Unknown Product,Kitchen,Unknown,Unknown,1,550.47,0.0,Pending,,550.47
+ORD100068,2024-06-05,Printed Kurti,Fashion,Mumbai,Maharashtra,1,601.95,0.05,Pending,,571.8525
+ORD100069,2024-04-06,Yoga Mat,Fitness,Delhi,Delhi,1,665.6,0.1,Delivered,5.0,599.0400000000001
+ORD100070,2024-06-23,Makeup Kit,Beauty,Surat,Gujarat,1,867.23,0.1,Delivered,4.0,780.5070000000001
+ORD100071,2024-04-18,Kids Toy Car,Toys,Bengaluru,Karnataka,1,565.41,0.05,Returned,,537.1395
+ORD100072,2024-06-21,Makeup Kit,Beauty,Delhi,Delhi,1,704.51,0.15,Pending,,598.8335
+ORD100073,2024-09-10,Printed Kurti,Fashion,Mumbai,Maharashtra,2,704.14,0.05,Pending,,1337.866
+ORD100074,2024-12-25,Wooden Side Table,Home,Delhi,Delhi,1,721.27,0.1,Delivered,5.0,649.143
+ORD100075,2024-07-07,LED Bulb Pack,Electronics,Pune,Maharashtra,2,890.67,0.0,Returned,,1781.34
+ORD100076,2024-12-16,Makeup Kit,Beauty,Pune,Maharashtra,1,599.51,0.0,Delivered,4.0,599.51
+ORD100077,2024-01-01,LED Bulb Pack,Electronics,Pune,Maharashtra,1,293.22,0.0,Returned,,293.22
+ORD100078,2024-04-20,Phone Cover,Accessories,Ahmedabad,Gujarat,1,408.42,0.0,Returned,,408.42
+ORD100079,2024-03-01,Formal Shirt,Fashion,Ahmedabad,Gujarat,1,876.69,0.15,Delivered,4.0,745.1865
+ORD100080,2024-01-23,Phone Cover,Accessories,Hyderabad,Telangana,1,1266.71,0.1,Pending,,1140.039
+ORD100081,2024-10-17,Formal Shirt,Fashion,Mumbai,Maharashtra,1,1103.02,0.3,Returned,,772.1139999999999
+ORD100082,2024-08-14,Wooden Side Table,Home,Mumbai,Maharashtra,1,864.41,0.0,Returned,,864.41
+ORD100083,2024-03-02,Formal Shirt,Fashion,Surat,Gujarat,1,361.43,0.0,Delivered,3.0,361.43
+ORD100084,2024-11-26,Formal Shirt,Fashion,Delhi,Delhi,3,701.5,0.05,Delivered,4.0,1999.2749999999999
+ORD100085,2024-01-27,Printed Kurti,Fashion,Jaipur,Rajasthan,1,809.73,0.0,Pending,,809.73
+ORD100086,2024-02-16,Makeup Kit,Beauty,Pune,Maharashtra,1,833.61,0.0,Pending,,833.61
+ORD100087,2024-08-18,Makeup Kit,Beauty,Jaipur,Rajasthan,3,929.92,0.1,Delivered,4.0,2510.7839999999997
+ORD100088,2024-06-11,Scented Candle,Home,Delhi,Delhi,1,94.19,0.05,Pending,,89.48049999999999
+ORD100089,2024-07-22,Scented Candle,Home,Jaipur,Rajasthan,1,404.73,0.0,Returned,,404.73
+ORD100090,2024-09-17,Phone Cover,Accessories,Hyderabad,Telangana,1,683.15,0.05,Pending,,648.9925
+ORD100091,2024-04-13,Yoga Mat,Fitness,Hyderabad,Telangana,1,782.39,0.05,Returned,,743.2705
+ORD100092,2024-06-26,LED Bulb Pack,Electronics,Chennai,Tamil Nadu,1,474.23,0.05,Returned,,450.5185
+ORD100093,2024-06-26,Printed Kurti,Fashion,Mumbai,Maharashtra,1,175.67,0.1,Pending,,158.10299999999998
+ORD100094,2024-01-29,Scented Candle,Home,Delhi,Delhi,1,982.38,0.05,Pending,,933.261
+ORD100095,2024-04-12,Makeup Kit,Beauty,Surat,Gujarat,2,119.24,0.1,Delivered,4.0,214.632
+ORD100096,2024-12-07,Yoga Mat,Fitness,Delhi,Delhi,1,489.26,0.05,Delivered,5.0,464.79699999999997
+ORD100097,2024-03-02,Yoga Mat,Fitness,Chennai,Tamil Nadu,1,568.27,0.05,Returned,,539.8565
+ORD100098,2024-08-25,Formal Shirt,Fashion,Chennai,Tamil Nadu,1,1189.91,0.2,Pending,,951.9280000000001
+ORD100099,2024-09-16,Formal Shirt,Fashion,Mumbai,Maharashtra,1,135.63,0.3,Pending,,94.94099999999999
+ORD100100,2024-12-30,Phone Cover,Accessories,Delhi,Delhi,2,634.3,0.0,Delivered,4.0,1268.6
+ORD100101,2024-12-11,Phone Cover,Accessories,Delhi,Delhi,1,363.19,0.0,Delivered,5.0,363.19
+ORD100102,2024-04-15,Formal Shirt,Fashion,Bengaluru,Karnataka,1,657.1,0.1,Returned,,591.39
+ORD100103,2024-10-05,Scented Candle,Home,Hyderabad,Telangana,2,342.13,0.1,Returned,,615.8340000000001
+ORD100104,2024-07-15,Makeup Kit,Beauty,Chennai,Tamil Nadu,1,301.3,0.15,Returned,,256.105
+ORD100105,2024-02-05,Phone Cover,Accessories,Mumbai,Maharashtra,1,381.95,0.3,Pending,,267.36499999999995
+ORD100106,2024-01-18,Kids Toy Car,Toys,Chennai,Tamil Nadu,1,933.3,0.0,Delivered,5.0,933.3
+ORD100107,2024-09-04,Yoga Mat,Fitness,Bengaluru,Karnataka,2,372.53,0.05,Returned,,707.8069999999999
+ORD100108,2024-08-02,Unknown Product,Electronics,Unknown,Unknown,1,550.47,0.2,Pending,,440.37600000000003
+ORD100109,2024-01-04,Unknown Product,Toys,Unknown,Unknown,1,550.47,0.15,Delivered,4.0,467.8995
+ORD100110,2024-07-30,Printed Kurti,Fashion,Bengaluru,Karnataka,2,647.25,0.3,Delivered,4.0,906.15
+ORD100111,2024-08-02,Yoga Mat,Fitness,Jaipur,Rajasthan,1,510.96,0.05,Delivered,4.0,485.412
+ORD100112,2024-01-17,Kids Toy Car,Toys,Bengaluru,Karnataka,1,897.43,0.15,Returned,,762.8154999999999
+ORD100113,2024-12-15,Yoga Mat,Fitness,Mumbai,Maharashtra,1,787.5,0.0,Returned,,787.5
+ORD100114,2024-09-16,Makeup Kit,Beauty,Hyderabad,Telangana,1,572.74,0.05,Delivered,5.0,544.103
+ORD100115,2024-12-09,Yoga Mat,Fitness,Surat,Gujarat,1,346.85,0.0,Returned,,346.85
+ORD100116,2024-12-25,Scented Candle,Home,Bengaluru,Karnataka,1,734.15,0.0,Delivered,3.0,734.15
+ORD100117,2024-12-08,LED Bulb Pack,Electronics,Bengaluru,Karnataka,1,957.36,0.0,Returned,,957.36
+ORD100118,2024-10-13,Wooden Side Table,Home,Bengaluru,Karnataka,1,408.69,0.0,Returned,,408.69
+ORD100119,2024-04-13,Kids Toy Car,Toys,Hyderabad,Telangana,3,619.61,0.05,Delivered,4.0,1765.8884999999998
+ORD100120,2024-12-04,Printed Kurti,Fashion,Pune,Maharashtra,1,350.73,0.0,Delivered,5.0,350.73
+ORD100121,2024-03-18,Stainless Tiffin,Kitchen,Hyderabad,Telangana,1,958.03,0.05,Returned,,910.1284999999999
+ORD100122,2024-11-14,Yoga Mat,Fitness,Chennai,Tamil Nadu,2,544.3,0.0,Delivered,4.0,1088.6
+ORD100123,2024-09-13,Makeup Kit,Beauty,Mumbai,Maharashtra,1,550.47,0.0,Delivered,4.0,550.47
+ORD100124,2024-04-18,Kids Toy Car,Toys,Kolkata,West Bengal,1,705.8,0.3,Delivered,4.0,494.05999999999995
+ORD100125,2024-09-06,Phone Cover,Accessories,Kolkata,West Bengal,1,1009.82,0.15,Pending,,858.347
+ORD100126,2024-05-08,Kids Toy Car,Toys,Surat,Gujarat,1,570.9,0.3,Delivered,3.0,399.62999999999994
+ORD100127,2024-03-10,Printed Kurti,Fashion,Chennai,Tamil Nadu,1,845.05,0.3,Pending,,591.535
+ORD100128,2024-02-12,Phone Cover,Accessories,Mumbai,Maharashtra,1,985.34,0.05,Pending,,936.073
+ORD100129,2024-10-09,Kids Toy Car,Toys,Kolkata,West Bengal,1,837.78,0.05,Returned,,795.891
+ORD100130,2024-07-17,Kids Toy Car,Toys,Jaipur,Rajasthan,2,1206.94,0.0,Delivered,4.0,2413.88
+ORD100131,2024-03-14,Kids Toy Car,Toys,Jaipur,Rajasthan,1,307.51,0.05,Returned,,292.1345
+ORD100132,2024-01-01,Wooden Side Table,Home,Pune,Maharashtra,1,123.81,0.15,Pending,,105.2385
+ORD100133,2024-05-21,Formal Shirt,Fashion,Hyderabad,Telangana,1,658.74,0.0,Returned,,658.74
+ORD100134,2024-08-30,Printed Kurti,Fashion,Kolkata,West Bengal,2,772.59,0.05,Returned,,1467.921
+ORD100135,2024-07-15,Printed Kurti,Fashion,Chennai,Tamil Nadu,2,993.0,0.15,Returned,,1688.1
+ORD100136,2024-06-05,Kids Toy Car,Toys,Kolkata,West Bengal,1,527.92,0.15,Pending,,448.73199999999997
+ORD100137,2024-02-19,Phone Cover,Accessories,Surat,Gujarat,3,465.33,0.0,Delivered,4.0,1395.99
+ORD100138,2024-09-20,Kids Toy Car,Toys,Pune,Maharashtra,1,515.64,0.05,Pending,,489.85799999999995
+ORD100139,2024-08-09,LED Bulb Pack,Electronics,Jaipur,Rajasthan,1,921.34,0.0,Returned,,921.34
+ORD100140,2024-11-19,Kids Toy Car,Toys,Surat,Gujarat,2,551.57,0.15,Delivered,5.0,937.6690000000001
+ORD100141,2024-03-22,Phone Cover,Accessories,Chennai,Tamil Nadu,1,564.09,0.0,Returned,,564.09
+ORD100142,2024-09-11,Scented Candle,Home,Jaipur,Rajasthan,1,139.42,0.1,Returned,,125.478
+ORD100143,2024-06-20,Stainless Tiffin,Kitchen,Ahmedabad,Gujarat,1,710.65,0.05,Pending,,675.1175
+ORD100145,2024-04-20,LED Bulb Pack,Electronics,Delhi,Delhi,1,1164.22,0.15,Pending,,989.587
+ORD100146,2024-02-06,Scented Candle,Home,Kolkata,West Bengal,1,857.97,0.05,Delivered,4.0,815.0715
+ORD100147,2024-11-09,Phone Cover,Accessories,Hyderabad,Telangana,1,599.83,0.15,Delivered,4.0,509.8555
+ORD100148,2024-01-18,LED Bulb Pack,Electronics,Mumbai,Maharashtra,1,419.9,0.0,Delivered,4.0,419.9
+ORD100149,2024-11-26,Stainless Tiffin,Kitchen,Jaipur,Rajasthan,1,447.31,0.05,Delivered,4.0,424.9445
+ORD100150,2024-12-10,Stainless Tiffin,Kitchen,Pune,Maharashtra,2,610.04,0.15,Pending,,1037.068
+ORD100151,2024-10-05,Scented Candle,Home,Hyderabad,Telangana,1,201.26,0.1,Pending,,181.134
+ORD100152,2024-06-04,Kids Toy Car,Toys,Ahmedabad,Gujarat,2,545.58,0.0,Delivered,4.0,1091.16
+ORD100153,2024-12-12,LED Bulb Pack,Electronics,Mumbai,Maharashtra,3,788.92,0.05,Delivered,4.0,2248.4219999999996
+ORD100154,2024-03-09,Kids Toy Car,Toys,Hyderabad,Telangana,1,513.13,0.0,Pending,,513.13
+ORD100155,2024-01-20,Unknown Product,Fashion,Unknown,Unknown,1,550.47,0.0,Pending,,550.47
+ORD100156,2024-06-26,Makeup Kit,Beauty,Delhi,Delhi,1,219.62,0.0,Delivered,5.0,219.62
+ORD100157,2024-08-05,Stainless Tiffin,Kitchen,Surat,Gujarat,1,696.3,0.1,Pending,,626.67
+ORD100158,2024-08-25,Yoga Mat,Fitness,Ahmedabad,Gujarat,1,390.92,0.0,Pending,,390.92
+ORD100159,2024-11-18,Formal Shirt,Fashion,Pune,Maharashtra,1,312.14,0.0,Pending,,312.14
+ORD100160,2024-10-15,Unknown Product,Kitchen,Unknown,Unknown,1,550.47,0.05,Returned,,522.9465
+ORD100161,2024-10-18,Unknown Product,Kitchen,Unknown,Unknown,1,550.47,0.0,Delivered,5.0,550.47
+ORD100162,2024-07-07,Phone Cover,Accessories,Surat,Gujarat,1,805.41,0.1,Pending,,724.869
+ORD100163,2024-06-19,Makeup Kit,Beauty,Chennai,Tamil Nadu,1,550.47,0.0,Delivered,4.0,550.47
+ORD100164,2024-04-15,Phone Cover,Accessories,Hyderabad,Telangana,1,95.44,0.05,Returned,,90.66799999999999
+ORD100165,2024-02-01,Yoga Mat,Fitness,Surat,Gujarat,1,960.06,0.0,Delivered,4.0,960.06
+ORD100166,2024-05-28,LED Bulb Pack,Electronics,Hyderabad,Telangana,1,558.59,0.05,Pending,,530.6605
+ORD100167,2024-01-25,LED Bulb Pack,Electronics,Hyderabad,Telangana,1,840.59,0.05,Returned,,798.5605
+ORD100168,2024-07-29,Kids Toy Car,Toys,Kolkata,West Bengal,1,306.85,0.05,Returned,,291.5075
+ORD100169,2024-03-21,Kids Toy Car,Toys,Mumbai,Maharashtra,1,278.64,0.0,Returned,,278.64
+ORD100170,2024-09-27,Kids Toy Car,Toys,Jaipur,Rajasthan,1,318.03,0.2,Delivered,4.0,254.42399999999998
+ORD100171,2024-07-04,Unknown Product,Home,Unknown,Unknown,1,550.47,0.15,Delivered,4.0,467.8995
+ORD100172,2024-10-19,Yoga Mat,Fitness,Chennai,Tamil Nadu,1,1262.3,0.1,Returned,,1136.07
+ORD100173,2024-10-17,Kids Toy Car,Toys,Surat,Gujarat,1,854.36,0.0,Pending,,854.36
+ORD100174,2024-12-14,Formal Shirt,Fashion,Jaipur,Rajasthan,1,968.72,0.05,Delivered,4.0,920.284
+ORD100175,2024-04-15,Stainless Tiffin,Kitchen,Hyderabad,Telangana,3,157.11,0.1,Returned,,424.19700000000006
+ORD100176,2024-05-31,Stainless Tiffin,Kitchen,Mumbai,Maharashtra,1,354.81,0.0,Returned,,354.81
+ORD100177,2024-11-22,Kids Toy Car,Toys,Bengaluru,Karnataka,1,403.86,0.0,Returned,,403.86
+ORD100178,2024-07-26,LED Bulb Pack,Electronics,Jaipur,Rajasthan,2,564.56,0.05,Delivered,5.0,1072.6639999999998
+ORD100179,2024-08-07,Kids Toy Car,Toys,Jaipur,Rajasthan,1,300.71,0.05,Pending,,285.67449999999997
+ORD100180,2024-09-06,Wooden Side Table,Home,Delhi,Delhi,3,621.2,0.0,Returned,,1863.6000000000001
+ORD100181,2024-03-11,LED Bulb Pack,Electronics,Ahmedabad,Gujarat,1,632.07,0.1,Delivered,5.0,568.863
+ORD100182,2024-05-07,Phone Cover,Accessories,Pune,Maharashtra,1,50.82,0.15,Delivered,4.0,43.196999999999996
+ORD100183,2024-05-11,Stainless Tiffin,Kitchen,Kolkata,West Bengal,1,713.01,0.05,Returned,,677.3594999999999
+ORD100184,2024-04-07,Phone Cover,Accessories,Pune,Maharashtra,1,412.41,0.1,Delivered,4.0,371.16900000000004
+ORD100185,2024-10-17,Stainless Tiffin,Kitchen,Mumbai,Maharashtra,1,457.99,0.0,Pending,,457.99
+ORD100186,2024-03-28,Wooden Side Table,Home,Kolkata,West Bengal,1,354.45,0.0,Pending,,354.45
+ORD100187,2024-10-19,Printed Kurti,Fashion,Mumbai,Maharashtra,1,564.22,0.0,Delivered,5.0,564.22
+ORD100188,2024-11-21,Makeup Kit,Beauty,Hyderabad,Telangana,1,369.41,0.1,Delivered,5.0,332.46900000000005
+ORD100189,2024-04-02,Scented Candle,Home,Bengaluru,Karnataka,1,778.08,0.05,Delivered,4.0,739.176
+ORD100190,2024-08-07,Stainless Tiffin,Kitchen,Delhi,Delhi,1,600.92,0.0,Delivered,3.0,600.92
+ORD100191,2024-10-24,Stainless Tiffin,Kitchen,Chennai,Tamil Nadu,1,576.82,0.05,Returned,,547.979
+ORD100192,2024-08-23,LED Bulb Pack,Electronics,Jaipur,Rajasthan,1,651.28,0.0,Pending,,651.28
+ORD100193,2024-04-30,Printed Kurti,Fashion,Bengaluru,Karnataka,1,426.44,0.0,Delivered,5.0,426.44
+ORD100194,2024-12-26,Scented Candle,Home,Mumbai,Maharashtra,1,212.43,0.2,Returned,,169.94400000000002
+ORD100195,2024-06-03,Scented Candle,Home,Pune,Maharashtra,1,658.23,0.15,Pending,,559.4955
+ORD100196,2024-08-17,Makeup Kit,Beauty,Delhi,Delhi,1,347.08,0.0,Pending,,347.08
+ORD100197,2024-09-27,Makeup Kit,Beauty,Delhi,Delhi,1,219.1,0.05,Returned,,208.14499999999998
+ORD100198,2024-11-05,Scented Candle,Home,Delhi,Delhi,1,478.25,0.05,Pending,,454.3375
+ORD100199,2024-07-25,Wooden Side Table,Home,Kolkata,West Bengal,2,796.93,0.1,Returned,,1434.474
+ORD100200,2024-07-15,Unknown Product,Fitness,Unknown,Unknown,1,550.47,0.0,Pending,,550.47
+ORD100201,2024-11-25,Yoga Mat,Fitness,Mumbai,Maharashtra,1,720.68,0.15,Returned,,612.578
+ORD100202,2024-06-17,Stainless Tiffin,Kitchen,Delhi,Delhi,1,839.78,0.15,Returned,,713.813
+ORD100203,2024-06-18,Stainless Tiffin,Kitchen,Bengaluru,Karnataka,1,574.62,0.0,Delivered,4.0,574.62
+ORD100204,2024-08-27,Formal Shirt,Fashion,Chennai,Tamil Nadu,1,571.47,0.15,Pending,,485.7495
+ORD100205,2024-06-18,Stainless Tiffin,Kitchen,Ahmedabad,Gujarat,2,406.7,0.0,Pending,,813.4
+ORD100206,2024-05-05,Scented Candle,Home,Chennai,Tamil Nadu,1,469.04,0.15,Delivered,4.0,398.684
+ORD100207,2024-12-08,Printed Kurti,Fashion,Chennai,Tamil Nadu,1,256.37,0.1,Returned,,230.733
+ORD100208,2024-08-09,Makeup Kit,Beauty,Ahmedabad,Gujarat,1,965.77,0.05,Pending,,917.4815
+ORD100209,2024-01-12,Kids Toy Car,Toys,Kolkata,West Bengal,1,852.58,0.0,Returned,,852.58
+ORD100210,2024-07-08,Yoga Mat,Fitness,Bengaluru,Karnataka,1,601.18,0.05,Delivered,4.0,571.121
+ORD100211,2024-05-12,Yoga Mat,Fitness,Chennai,Tamil Nadu,2,800.67,0.0,Returned,,1601.34
+ORD100212,2024-08-03,Scented Candle,Home,Chennai,Tamil Nadu,1,1283.73,0.0,Delivered,5.0,1283.73
+ORD100213,2024-02-03,Formal Shirt,Fashion,Hyderabad,Telangana,2,588.77,0.05,Delivered,4.0,1118.663
+ORD100214,2024-08-03,Kids Toy Car,Toys,Ahmedabad,Gujarat,2,312.86,0.05,Delivered,4.0,594.434
+ORD100215,2024-06-23,Stainless Tiffin,Kitchen,Ahmedabad,Gujarat,1,691.44,0.1,Delivered,5.0,622.296
+ORD100216,2024-03-27,Printed Kurti,Fashion,Chennai,Tamil Nadu,2,253.12,0.3,Returned,,354.368
+ORD100217,2024-09-14,Makeup Kit,Beauty,Chennai,Tamil Nadu,1,512.26,0.0,Pending,,512.26
+ORD100218,2024-08-02,Yoga Mat,Fitness,Ahmedabad,Gujarat,2,566.72,0.05,Pending,,1076.768
+ORD100219,2024-10-16,Yoga Mat,Fitness,Pune,Maharashtra,1,878.26,0.0,Pending,,878.26
+ORD100220,2024-09-29,Yoga Mat,Fitness,Kolkata,West Bengal,1,246.37,0.05,Returned,,234.0515
+ORD100221,2024-04-07,Phone Cover,Accessories,Chennai,Tamil Nadu,2,53.54,0.0,Delivered,4.0,107.08
+ORD100222,2024-05-02,Printed Kurti,Fashion,Hyderabad,Telangana,1,99.17,0.05,Delivered,4.0,94.2115
+ORD100223,2024-03-15,Formal Shirt,Fashion,Bengaluru,Karnataka,1,471.78,0.05,Delivered,4.0,448.191
+ORD100224,2024-10-08,Stainless Tiffin,Kitchen,Chennai,Tamil Nadu,2,874.14,0.1,Pending,,1573.452
+ORD100225,2024-04-19,Formal Shirt,Fashion,Jaipur,Rajasthan,1,103.47,0.1,Delivered,4.0,93.123
+ORD100226,2024-03-29,Makeup Kit,Beauty,Chennai,Tamil Nadu,3,469.33,0.0,Returned,,1407.99
+ORD100227,2024-01-06,LED Bulb Pack,Electronics,Chennai,Tamil Nadu,3,218.04,0.05,Pending,,621.414
+ORD100228,2024-04-16,Formal Shirt,Fashion,Bengaluru,Karnataka,1,554.18,0.0,Delivered,5.0,554.18
+ORD100229,2024-04-23,Wooden Side Table,Home,Surat,Gujarat,1,542.76,0.0,Pending,,542.76
+ORD100230,2024-02-09,LED Bulb Pack,Electronics,Ahmedabad,Gujarat,1,1320.98,0.0,Delivered,5.0,1320.98
+ORD100231,2024-07-01,Scented Candle,Home,Chennai,Tamil Nadu,1,217.87,0.05,Returned,,206.9765
+ORD100232,2024-03-12,Stainless Tiffin,Kitchen,Kolkata,West Bengal,1,923.83,0.0,Delivered,4.0,923.83
+ORD100233,2024-02-14,Phone Cover,Accessories,Ahmedabad,Gujarat,2,172.02,0.2,Delivered,4.0,275.232
+ORD100234,2024-01-29,Kids Toy Car,Toys,Ahmedabad,Gujarat,1,216.83,0.0,Pending,,216.83
+ORD100235,2024-02-27,Wooden Side Table,Home,Bengaluru,Karnataka,1,1075.68,0.1,Pending,,968.1120000000001
+ORD100236,2024-04-06,Phone Cover,Accessories,Delhi,Delhi,1,766.5,0.0,Delivered,4.0,766.5
+ORD100237,2024-08-23,Formal Shirt,Fashion,Pune,Maharashtra,1,211.28,0.0,Pending,,211.28
+ORD100238,2024-10-28,Scented Candle,Home,Hyderabad,Telangana,1,444.8,0.0,Pending,,444.8
+ORD100239,2024-12-18,Kids Toy Car,Toys,Ahmedabad,Gujarat,1,481.24,0.15,Returned,,409.054
+ORD100240,2024-06-15,Phone Cover,Accessories,Jaipur,Rajasthan,1,1043.92,0.0,Returned,,1043.92
+ORD100241,2024-01-24,Scented Candle,Home,Jaipur,Rajasthan,1,247.87,0.2,Pending,,198.29600000000002
+ORD100242,2024-08-30,Printed Kurti,Fashion,Hyderabad,Telangana,1,50.93,0.2,Delivered,5.0,40.744
+ORD100243,2024-03-01,Phone Cover,Accessories,Delhi,Delhi,1,1079.41,0.0,Delivered,4.0,1079.41
+ORD100244,2024-01-30,LED Bulb Pack,Electronics,Surat,Gujarat,1,776.91,0.05,Delivered,4.0,738.0645
+ORD100245,2024-06-23,Wooden Side Table,Home,Pune,Maharashtra,1,126.09,0.0,Pending,,126.09
+ORD100246,2024-04-23,Scented Candle,Home,Ahmedabad,Gujarat,2,386.52,0.15,Delivered,4.0,657.084
+ORD100247,2024-10-01,Makeup Kit,Beauty,Chennai,Tamil Nadu,2,669.74,0.15,Returned,,1138.558
+ORD100248,2024-09-23,Stainless Tiffin,Kitchen,Delhi,Delhi,1,1196.57,0.0,Delivered,4.0,1196.57
+ORD100249,2024-09-13,Phone Cover,Accessories,Jaipur,Rajasthan,1,751.68,0.3,Delivered,4.0,526.1759999999999
+ORD100250,2024-07-30,Kids Toy Car,Toys,Delhi,Delhi,1,61.12,0.05,Delivered,4.0,58.06399999999999
+ORD100251,2024-11-17,LED Bulb Pack,Electronics,Chennai,Tamil Nadu,1,715.56,0.0,Delivered,3.0,715.56
+ORD100252,2024-03-05,Printed Kurti,Fashion,Mumbai,Maharashtra,1,1036.16,0.1,Returned,,932.5440000000001
+ORD100253,2024-12-23,Scented Candle,Home,Jaipur,Rajasthan,1,1021.15,0.2,Returned,,816.9200000000001
+ORD100254,2024-07-01,Stainless Tiffin,Kitchen,Delhi,Delhi,1,665.08,0.0,Pending,,665.08
+ORD100255,2024-04-15,Phone Cover,Accessories,Pune,Maharashtra,1,260.92,0.1,Pending,,234.82800000000003
+ORD100256,2024-06-19,Unknown Product,Fashion,Unknown,Unknown,1,550.47,0.05,Delivered,4.0,522.9465
+ORD100257,2024-12-11,Scented Candle,Home,Mumbai,Maharashtra,1,724.31,0.1,Returned,,651.879
+ORD100258,2024-04-07,Yoga Mat,Fitness,Jaipur,Rajasthan,1,265.18,0.1,Delivered,5.0,238.662
+ORD100259,2024-09-18,Printed Kurti,Fashion,Hyderabad,Telangana,1,1339.71,0.0,Pending,,1339.71
+ORD100260,2024-10-24,Scented Candle,Home,Mumbai,Maharashtra,1,732.27,0.0,Pending,,732.27
+ORD100261,2024-01-16,Phone Cover,Accessories,Jaipur,Rajasthan,1,94.25,0.05,Delivered,4.0,89.5375
+ORD100262,2024-09-10,Stainless Tiffin,Kitchen,Surat,Gujarat,1,539.5,0.1,Returned,,485.55
+ORD100263,2024-08-15,Phone Cover,Accessories,Bengaluru,Karnataka,1,1081.24,0.0,Returned,,1081.24
+ORD100264,2024-07-01,Stainless Tiffin,Kitchen,Delhi,Delhi,1,739.72,0.0,Returned,,739.72
+ORD100265,2024-05-04,Kids Toy Car,Toys,Kolkata,West Bengal,1,841.77,0.05,Pending,,799.6814999999999
+ORD100267,2024-09-14,Stainless Tiffin,Kitchen,Chennai,Tamil Nadu,1,736.2,0.2,Returned,,588.96
+ORD100268,2024-06-25,Formal Shirt,Fashion,Mumbai,Maharashtra,1,717.94,0.1,Delivered,5.0,646.1460000000001
+ORD100269,2024-05-05,Yoga Mat,Fitness,Chennai,Tamil Nadu,1,874.23,0.05,Delivered,4.0,830.5185
+ORD100270,2024-11-16,Kids Toy Car,Toys,Surat,Gujarat,3,678.89,0.0,Delivered,4.0,2036.67
+ORD100271,2024-06-09,Formal Shirt,Fashion,Ahmedabad,Gujarat,2,612.31,0.0,Delivered,4.0,1224.62
+ORD100272,2024-05-20,Makeup Kit,Beauty,Surat,Gujarat,1,538.13,0.15,Pending,,457.41049999999996
+ORD100273,2024-10-22,Stainless Tiffin,Kitchen,Ahmedabad,Gujarat,1,754.45,0.0,Delivered,5.0,754.45
+ORD100274,2024-08-01,Makeup Kit,Beauty,Chennai,Tamil Nadu,1,128.45,0.0,Delivered,3.0,128.45
+ORD100275,2024-12-08,Unknown Product,Accessories,Unknown,Unknown,1,550.47,0.0,Pending,,550.47
+ORD100276,2024-01-12,Stainless Tiffin,Kitchen,Delhi,Delhi,1,493.94,0.05,Pending,,469.243
+ORD100277,2024-10-02,Scented Candle,Home,Hyderabad,Telangana,1,418.08,0.0,Delivered,4.0,418.08
+ORD100278,2024-01-06,Phone Cover,Accessories,Surat,Gujarat,2,145.16,0.0,Pending,,290.32
+ORD100279,2024-03-28,Kids Toy Car,Toys,Delhi,Delhi,2,725.65,0.0,Delivered,5.0,1451.3
+ORD100280,2024-09-08,Stainless Tiffin,Kitchen,Delhi,Delhi,1,394.81,0.05,Delivered,4.0,375.0695
+ORD100281,2024-07-16,Stainless Tiffin,Kitchen,Chennai,Tamil Nadu,2,972.8,0.3,Pending,,1361.9199999999998
+ORD100282,2024-11-20,Phone Cover,Accessories,Pune,Maharashtra,1,54.55,0.1,Returned,,49.095
+ORD100283,2024-06-26,Stainless Tiffin,Kitchen,Hyderabad,Telangana,1,77.58,0.0,Pending,,77.58
+ORD100284,2024-03-15,LED Bulb Pack,Electronics,Pune,Maharashtra,1,248.17,0.0,Pending,,248.17
+ORD100285,2024-12-01,Formal Shirt,Fashion,Bengaluru,Karnataka,1,234.73,0.0,Delivered,5.0,234.73
+ORD100286,2024-05-11,Phone Cover,Accessories,Pune,Maharashtra,1,1015.15,0.0,Pending,,1015.15
+ORD100287,2024-04-19,Phone Cover,Accessories,Mumbai,Maharashtra,2,250.49,0.15,Pending,,425.833
+ORD100288,2024-08-13,Phone Cover,Accessories,Jaipur,Rajasthan,1,845.3,0.2,Pending,,676.24
+ORD100289,2024-06-22,Stainless Tiffin,Kitchen,Bengaluru,Karnataka,1,485.8,0.1,Pending,,437.22
+ORD100290,2024-05-09,Stainless Tiffin,Kitchen,Kolkata,West Bengal,1,599.94,0.1,Pending,,539.946
+ORD100291,2024-06-25,Unknown Product,Fashion,Unknown,Unknown,1,550.47,0.0,Returned,,550.47
+ORD100292,2024-08-10,Makeup Kit,Beauty,Hyderabad,Telangana,1,363.06,0.15,Returned,,308.601
+ORD100293,2024-01-17,Makeup Kit,Beauty,Pune,Maharashtra,1,383.36,0.0,Returned,,383.36
+ORD100295,2024-01-15,LED Bulb Pack,Electronics,Ahmedabad,Gujarat,1,378.78,0.15,Delivered,4.0,321.96299999999997
+ORD100296,2024-05-08,Formal Shirt,Fashion,Jaipur,Rajasthan,1,1257.21,0.05,Delivered,3.0,1194.3495
+ORD100297,2024-07-23,Stainless Tiffin,Kitchen,Delhi,Delhi,2,831.35,0.0,Returned,,1662.7
+ORD100298,2024-06-08,Wooden Side Table,Home,Bengaluru,Karnataka,1,635.76,0.1,Pending,,572.184
+ORD100299,2024-07-01,LED Bulb Pack,Electronics,Delhi,Delhi,1,650.34,0.0,Returned,,650.34
+ORD100300,2024-09-26,Yoga Mat,Fitness,Jaipur,Rajasthan,1,136.2,0.1,Returned,,122.58
+ORD100301,2024-11-27,Printed Kurti,Fashion,Kolkata,West Bengal,1,330.72,0.0,Pending,,330.72
+ORD100302,2024-05-02,Formal Shirt,Fashion,Pune,Maharashtra,1,394.72,0.15,Pending,,335.512
+ORD100303,2024-01-14,Stainless Tiffin,Kitchen,Surat,Gujarat,1,617.14,0.05,Pending,,586.283
+ORD100304,2024-09-02,Printed Kurti,Fashion,Hyderabad,Telangana,1,403.17,0.1,Pending,,362.853
+ORD100305,2024-10-17,Phone Cover,Accessories,Hyderabad,Telangana,1,863.25,0.0,Delivered,5.0,863.25
+ORD100306,2024-10-22,Unknown Product,Toys,Unknown,Unknown,1,550.47,0.15,Pending,,467.8995
+ORD100307,2024-03-05,Printed Kurti,Fashion,Ahmedabad,Gujarat,1,676.51,0.15,Pending,,575.0335
+ORD100308,2024-01-18,Phone Cover,Accessories,Mumbai,Maharashtra,1,852.56,0.15,Returned,,724.6759999999999
+ORD100309,2024-05-19,Wooden Side Table,Home,Chennai,Tamil Nadu,1,1009.51,0.2,Returned,,807.6080000000001
+ORD100311,2024-09-21,Kids Toy Car,Toys,Jaipur,Rajasthan,1,299.93,0.15,Delivered,5.0,254.9405
+ORD100312,2024-01-31,LED Bulb Pack,Electronics,Bengaluru,Karnataka,1,607.33,0.1,Pending,,546.5970000000001
+ORD100313,2024-09-22,Kids Toy Car,Toys,Jaipur,Rajasthan,1,563.93,0.1,Delivered,4.0,507.537
+ORD100314,2024-02-25,Stainless Tiffin,Kitchen,Jaipur,Rajasthan,1,629.97,0.05,Delivered,5.0,598.4715
+ORD100315,2024-06-27,Stainless Tiffin,Kitchen,Chennai,Tamil Nadu,1,429.59,0.1,Returned,,386.631
+ORD100316,2024-12-15,Wooden Side Table,Home,Ahmedabad,Gujarat,2,416.07,0.0,Returned,,832.14
+ORD100317,2024-01-29,Formal Shirt,Fashion,Bengaluru,Karnataka,1,608.23,0.0,Returned,,608.23
+ORD100318,2024-04-26,Yoga Mat,Fitness,Jaipur,Rajasthan,1,908.51,0.0,Pending,,908.51
+ORD100319,2024-06-26,Kids Toy Car,Toys,Chennai,Tamil Nadu,2,93.04,0.3,Returned,,130.256
+ORD100320,2024-11-27,Makeup Kit,Beauty,Pune,Maharashtra,3,382.32,0.15,Returned,,974.916
+ORD100321,2024-05-28,Printed Kurti,Fashion,Hyderabad,Telangana,1,663.16,0.0,Pending,,663.16
+ORD100323,2024-11-18,Phone Cover,Accessories,Mumbai,Maharashtra,1,530.27,0.0,Pending,,530.27
+ORD100324,2024-01-04,Kids Toy Car,Toys,Chennai,Tamil Nadu,3,115.6,0.0,Pending,,346.79999999999995
+ORD100325,2024-10-16,Wooden Side Table,Home,Jaipur,Rajasthan,1,209.64,0.1,Returned,,188.676
+ORD100326,2024-08-23,Phone Cover,Accessories,Hyderabad,Telangana,1,623.14,0.1,Returned,,560.826
+ORD100327,2024-08-29,Makeup Kit,Beauty,Hyderabad,Telangana,1,380.78,0.3,Returned,,266.546
+ORD100328,2024-12-16,LED Bulb Pack,Electronics,Delhi,Delhi,1,745.06,0.05,Pending,,707.8069999999999
+ORD100329,2024-11-02,Wooden Side Table,Home,Chennai,Tamil Nadu,1,520.25,0.05,Returned,,494.23749999999995
+ORD100330,2024-05-21,Wooden Side Table,Home,Jaipur,Rajasthan,1,536.32,0.2,Pending,,429.05600000000004
+ORD100331,2024-12-19,LED Bulb Pack,Electronics,Delhi,Delhi,1,623.0,0.0,Returned,,623.0
+ORD100332,2024-03-09,Yoga Mat,Fitness,Pune,Maharashtra,1,174.54,0.15,Delivered,4.0,148.35899999999998
+ORD100333,2024-12-06,LED Bulb Pack,Electronics,Surat,Gujarat,3,983.13,0.0,Returned,,2949.39
+ORD100334,2024-12-20,Formal Shirt,Fashion,Surat,Gujarat,2,762.31,0.15,Returned,,1295.927
+ORD100335,2024-12-20,LED Bulb Pack,Electronics,Chennai,Tamil Nadu,1,766.76,0.1,Returned,,690.0840000000001
+ORD100336,2024-11-08,Phone Cover,Accessories,Kolkata,West Bengal,1,924.76,0.05,Delivered,4.0,878.5219999999999
+ORD100337,2024-02-24,Stainless Tiffin,Kitchen,Delhi,Delhi,1,697.42,0.1,Delivered,4.0,627.678
+ORD100338,2024-05-22,Kids Toy Car,Toys,Surat,Gujarat,1,327.75,0.05,Delivered,4.0,311.3625
+ORD100339,2024-04-12,Kids Toy Car,Toys,Mumbai,Maharashtra,1,550.47,0.0,Pending,,550.47
+ORD100340,2024-05-23,Unknown Product,Fashion,Unknown,Unknown,1,550.47,0.1,Pending,,495.42300000000006
+ORD100341,2024-05-27,Phone Cover,Accessories,Jaipur,Rajasthan,1,277.16,0.1,Pending,,249.44400000000002
+ORD100342,2024-09-19,Yoga Mat,Fitness,Delhi,Delhi,2,259.91,0.0,Delivered,5.0,519.82
+ORD100343,2024-08-28,Stainless Tiffin,Kitchen,Mumbai,Maharashtra,1,535.69,0.05,Pending,,508.9055
+ORD100344,2024-03-26,Yoga Mat,Fitness,Jaipur,Rajasthan,1,707.47,0.0,Pending,,707.47
+ORD100345,2024-12-19,Printed Kurti,Fashion,Ahmedabad,Gujarat,1,1084.49,0.05,Pending,,1030.2655
+ORD100346,2024-02-15,Phone Cover,Accessories,Pune,Maharashtra,1,469.24,0.0,Delivered,4.0,469.24
+ORD100347,2024-04-28,Wooden Side Table,Home,Mumbai,Maharashtra,1,524.16,0.05,Returned,,497.95199999999994
+ORD100348,2024-04-01,Printed Kurti,Fashion,Delhi,Delhi,1,378.65,0.0,Pending,,378.65
+ORD100349,2024-06-25,LED Bulb Pack,Electronics,Pune,Maharashtra,1,721.77,0.1,Returned,,649.593
+ORD100350,2024-08-16,Formal Shirt,Fashion,Pune,Maharashtra,1,567.89,0.1,Pending,,511.101
+ORD100351,2024-09-11,LED Bulb Pack,Electronics,Pune,Maharashtra,2,355.92,0.1,Delivered,5.0,640.6560000000001
+ORD100352,2024-06-07,Stainless Tiffin,Kitchen,Jaipur,Rajasthan,1,584.36,0.15,Returned,,496.706
+ORD100353,2024-03-25,Wooden Side Table,Home,Kolkata,West Bengal,1,835.04,0.1,Returned,,751.536
+ORD100354,2024-11-28,Stainless Tiffin,Kitchen,Hyderabad,Telangana,1,439.14,0.0,Returned,,439.14
+ORD100355,2024-07-30,Printed Kurti,Fashion,Kolkata,West Bengal,1,611.36,0.0,Pending,,611.36
+ORD100357,2024-11-25,Makeup Kit,Beauty,Delhi,Delhi,1,391.21,0.05,Returned,,371.6495
+ORD100358,2024-09-06,Printed Kurti,Fashion,Hyderabad,Telangana,1,270.04,0.3,Pending,,189.028
+ORD100359,2024-01-20,Scented Candle,Home,Mumbai,Maharashtra,3,776.0,0.1,Returned,,2095.2000000000003
+ORD100360,2024-11-01,Makeup Kit,Beauty,Bengaluru,Karnataka,1,399.32,0.0,Pending,,399.32
+ORD100361,2024-11-18,Makeup Kit,Beauty,Delhi,Delhi,1,550.47,0.05,Pending,,522.9465
+ORD100362,2024-03-24,Makeup Kit,Beauty,Jaipur,Rajasthan,2,829.86,0.05,Delivered,4.0,1576.734
+ORD100363,2024-11-02,Yoga Mat,Fitness,Bengaluru,Karnataka,1,811.95,0.3,Pending,,568.365
+ORD100364,2024-11-29,Wooden Side Table,Home,Chennai,Tamil Nadu,1,617.34,0.05,Delivered,5.0,586.473
+ORD100365,2024-04-07,LED Bulb Pack,Electronics,Surat,Gujarat,1,864.13,0.2,Delivered,5.0,691.3040000000001
+ORD100366,2024-02-21,Printed Kurti,Fashion,Mumbai,Maharashtra,1,745.7,0.2,Delivered,4.0,596.5600000000001
+ORD100367,2024-08-16,Yoga Mat,Fitness,Hyderabad,Telangana,1,77.08,0.1,Returned,,69.372
+ORD100368,2024-04-13,Wooden Side Table,Home,Bengaluru,Karnataka,1,670.49,0.2,Delivered,4.0,536.392
+ORD100369,2024-07-23,LED Bulb Pack,Electronics,Pune,Maharashtra,1,344.32,0.3,Delivered,4.0,241.02399999999997
+ORD100370,2024-06-23,Printed Kurti,Fashion,Ahmedabad,Gujarat,2,54.85,0.2,Returned,,87.76
+ORD100371,2024-02-12,Formal Shirt,Fashion,Jaipur,Rajasthan,1,534.87,0.05,Returned,,508.12649999999996
+ORD100372,2024-08-26,Formal Shirt,Fashion,Hyderabad,Telangana,1,203.33,0.05,Delivered,5.0,193.1635
+ORD100373,2024-06-26,Formal Shirt,Fashion,Chennai,Tamil Nadu,1,645.77,0.1,Pending,,581.193
+ORD100374,2024-07-05,Wooden Side Table,Home,Mumbai,Maharashtra,1,409.69,0.3,Returned,,286.78299999999996
+ORD100375,2024-07-09,Kids Toy Car,Toys,Delhi,Delhi,1,653.95,0.0,Pending,,653.95
+ORD100376,2024-12-15,Stainless Tiffin,Kitchen,Delhi,Delhi,1,573.05,0.0,Delivered,5.0,573.05
+ORD100377,2024-02-27,Yoga Mat,Fitness,Jaipur,Rajasthan,1,165.1,0.0,Delivered,4.0,165.1
+ORD100378,2024-08-30,LED Bulb Pack,Electronics,Chennai,Tamil Nadu,1,445.4,0.0,Pending,,445.4
+ORD100379,2024-10-03,Scented Candle,Home,Surat,Gujarat,1,445.22,0.1,Returned,,400.69800000000004
+ORD100380,2024-07-25,Kids Toy Car,Toys,Jaipur,Rajasthan,1,664.58,0.05,Returned,,631.351
+ORD100381,2024-08-23,Stainless Tiffin,Kitchen,Surat,Gujarat,2,679.01,0.0,Returned,,1358.02
+ORD100382,2024-11-27,Printed Kurti,Fashion,Delhi,Delhi,1,528.52,0.05,Pending,,502.09399999999994
+ORD100383,2024-06-16,Formal Shirt,Fashion,Hyderabad,Telangana,2,538.83,0.0,Returned,,1077.66
+ORD100384,2024-05-11,Makeup Kit,Beauty,Pune,Maharashtra,1,769.79,0.0,Returned,,769.79
+ORD100385,2024-10-10,Kids Toy Car,Toys,Pune,Maharashtra,1,525.79,0.0,Delivered,4.0,525.79
+ORD100386,2024-05-01,Yoga Mat,Fitness,Pune,Maharashtra,3,591.8,0.15,Pending,,1509.09
+ORD100387,2024-02-29,Phone Cover,Accessories,Kolkata,West Bengal,1,685.76,0.05,Pending,,651.472
+ORD100388,2024-02-05,Stainless Tiffin,Kitchen,Delhi,Delhi,1,288.66,0.0,Delivered,4.0,288.66
+ORD100389,2024-02-07,Printed Kurti,Fashion,Pune,Maharashtra,1,671.02,0.0,Pending,,671.02
+ORD100390,2024-08-04,Yoga Mat,Fitness,Bengaluru,Karnataka,1,362.87,0.15,Delivered,4.0,308.4395
+ORD100391,2024-08-06,Scented Candle,Home,Surat,Gujarat,1,1124.21,0.15,Returned,,955.5785
+ORD100392,2024-05-17,Printed Kurti,Fashion,Pune,Maharashtra,2,540.73,0.1,Pending,,973.3140000000001
+ORD100393,2024-04-21,Kids Toy Car,Toys,Mumbai,Maharashtra,2,1151.02,0.05,Pending,,2186.9379999999996
+ORD100394,2024-02-10,Phone Cover,Accessories,Kolkata,West Bengal,1,609.27,0.1,Pending,,548.343
+ORD100395,2024-03-01,Formal Shirt,Fashion,Hyderabad,Telangana,1,684.77,0.1,Pending,,616.293
+ORD100396,2024-11-25,Stainless Tiffin,Kitchen,Hyderabad,Telangana,1,318.51,0.1,Delivered,5.0,286.659
+ORD100397,2024-05-22,Yoga Mat,Fitness,Surat,Gujarat,1,638.99,0.3,Delivered,4.0,447.293
+ORD100398,2024-03-28,Phone Cover,Accessories,Jaipur,Rajasthan,2,652.18,0.1,Returned,,1173.924
+ORD100399,2024-08-26,Formal Shirt,Fashion,Jaipur,Rajasthan,2,980.55,0.05,Pending,,1863.0449999999998
+ORD100400,2024-08-24,Formal Shirt,Fashion,Mumbai,Maharashtra,1,864.08,0.15,Pending,,734.468
+ORD100401,2024-03-11,Phone Cover,Accessories,Mumbai,Maharashtra,1,720.99,0.05,Returned,,684.9404999999999
+ORD100402,2024-05-16,Phone Cover,Accessories,Kolkata,West Bengal,1,586.15,0.0,Delivered,4.0,586.15
+ORD100403,2024-08-07,LED Bulb Pack,Electronics,Bengaluru,Karnataka,1,241.4,0.05,Pending,,229.32999999999998
+ORD100404,2024-02-25,Kids Toy Car,Toys,Delhi,Delhi,1,252.58,0.0,Pending,,252.58
+ORD100405,2024-10-16,Wooden Side Table,Home,Delhi,Delhi,1,196.02,0.0,Pending,,196.02
+ORD100406,2024-06-12,Makeup Kit,Beauty,Pune,Maharashtra,1,1042.6,0.1,Returned,,938.3399999999999
+ORD100407,2024-05-23,Yoga Mat,Fitness,Bengaluru,Karnataka,1,852.95,0.05,Returned,,810.3025
+ORD100408,2024-08-19,Yoga Mat,Fitness,Jaipur,Rajasthan,2,299.82,0.0,Delivered,4.0,599.64
+ORD100409,2024-03-02,Wooden Side Table,Home,Bengaluru,Karnataka,1,1237.28,0.05,Pending,,1175.416
+ORD100410,2024-04-15,Wooden Side Table,Home,Delhi,Delhi,1,1248.59,0.15,Returned,,1061.3014999999998
+ORD100411,2024-08-23,Kids Toy Car,Toys,Ahmedabad,Gujarat,1,767.55,0.1,Returned,,690.795
+ORD100412,2024-03-24,Kids Toy Car,Toys,Chennai,Tamil Nadu,3,474.19,0.2,Pending,,1138.056
+ORD100413,2024-06-15,Printed Kurti,Fashion,Kolkata,West Bengal,1,667.63,0.2,Delivered,4.0,534.104
+ORD100414,2024-07-07,Phone Cover,Accessories,Jaipur,Rajasthan,1,57.89,0.0,Pending,,57.89
+ORD100415,2024-03-26,Phone Cover,Accessories,Mumbai,Maharashtra,1,520.5,0.15,Returned,,442.425
+ORD100416,2024-01-03,Scented Candle,Home,Mumbai,Maharashtra,1,825.49,0.1,Delivered,4.0,742.941
+ORD100417,2024-10-25,Phone Cover,Accessories,Hyderabad,Telangana,1,78.85,0.0,Delivered,4.0,78.85
+ORD100419,2024-10-17,Wooden Side Table,Home,Ahmedabad,Gujarat,1,149.79,0.0,Returned,,149.79
+ORD100420,2024-05-27,LED Bulb Pack,Electronics,Bengaluru,Karnataka,3,969.22,0.05,Pending,,2762.2769999999996
+ORD100421,2024-08-04,Makeup Kit,Beauty,Surat,Gujarat,1,527.46,0.1,Pending,,474.71400000000006
+ORD100422,2024-06-03,Yoga Mat,Fitness,Delhi,Delhi,3,911.85,0.2,Pending,,2188.44
+ORD100423,2024-01-08,Wooden Side Table,Home,Pune,Maharashtra,1,665.19,0.0,Returned,,665.19
+ORD100424,2024-08-11,Printed Kurti,Fashion,Kolkata,West Bengal,1,894.83,0.2,Returned,,715.864
+ORD100425,2024-10-02,Scented Candle,Home,Pune,Maharashtra,1,459.73,0.0,Pending,,459.73
+ORD100426,2024-02-14,Kids Toy Car,Toys,Chennai,Tamil Nadu,1,790.87,0.05,Returned,,751.3265
+ORD100427,2024-03-07,Wooden Side Table,Home,Kolkata,West Bengal,1,381.87,0.0,Pending,,381.87
+ORD100428,2024-02-04,Stainless Tiffin,Kitchen,Kolkata,West Bengal,1,1216.81,0.0,Returned,,1216.81
+ORD100429,2024-06-18,Printed Kurti,Fashion,Hyderabad,Telangana,1,178.65,0.15,Pending,,151.8525
+ORD100430,2024-01-31,Kids Toy Car,Toys,Surat,Gujarat,1,917.38,0.05,Returned,,871.511
+ORD100431,2024-03-27,Phone Cover,Accessories,Kolkata,West Bengal,1,1037.02,0.05,Returned,,985.169
+ORD100432,2024-07-17,LED Bulb Pack,Electronics,Delhi,Delhi,1,644.32,0.0,Pending,,644.32
+ORD100433,2024-07-17,Printed Kurti,Fashion,Surat,Gujarat,1,549.37,0.05,Delivered,4.0,521.9014999999999
+ORD100434,2024-10-09,Yoga Mat,Fitness,Kolkata,West Bengal,1,720.69,0.0,Pending,,720.69
+ORD100435,2024-02-09,LED Bulb Pack,Electronics,Hyderabad,Telangana,1,1038.52,0.0,Delivered,5.0,1038.52
+ORD100436,2024-03-08,Phone Cover,Accessories,Hyderabad,Telangana,1,219.77,0.05,Pending,,208.7815
+ORD100437,2024-03-09,LED Bulb Pack,Electronics,Delhi,Delhi,1,336.61,0.05,Pending,,319.7795
+ORD100438,2024-10-19,Stainless Tiffin,Kitchen,Ahmedabad,Gujarat,1,363.45,0.05,Pending,,345.2775
+ORD100439,2024-09-21,Scented Candle,Home,Ahmedabad,Gujarat,2,760.41,0.1,Pending,,1368.738
+ORD100440,2024-12-01,Scented Candle,Home,Kolkata,West Bengal,1,198.22,0.1,Pending,,178.398
+ORD100441,2024-06-19,Yoga Mat,Fitness,Bengaluru,Karnataka,3,179.96,0.1,Delivered,4.0,485.892
+ORD100442,2024-09-02,Stainless Tiffin,Kitchen,Ahmedabad,Gujarat,1,338.5,0.05,Returned,,321.575
+ORD100443,2024-01-22,Phone Cover,Accessories,Jaipur,Rajasthan,3,533.27,0.0,Returned,,1599.81
+ORD100444,2024-04-30,Formal Shirt,Fashion,Delhi,Delhi,1,600.81,0.0,Returned,,600.81
+ORD100445,2024-01-23,Stainless Tiffin,Kitchen,Mumbai,Maharashtra,1,125.89,0.15,Returned,,107.0065
+ORD100446,2024-09-07,Phone Cover,Accessories,Delhi,Delhi,1,877.39,0.2,Delivered,4.0,701.912
+ORD100447,2024-07-15,Scented Candle,Home,Jaipur,Rajasthan,1,732.74,0.0,Returned,,732.74
+ORD100448,2024-08-03,Stainless Tiffin,Kitchen,Jaipur,Rajasthan,3,571.9,0.15,Pending,,1458.3449999999998
+ORD100449,2024-12-19,Wooden Side Table,Home,Ahmedabad,Gujarat,1,784.02,0.1,Pending,,705.618
+ORD100450,2024-08-22,Makeup Kit,Beauty,Kolkata,West Bengal,1,391.76,0.15,Returned,,332.996
+ORD100451,2024-01-25,Formal Shirt,Fashion,Bengaluru,Karnataka,1,658.5,0.1,Returned,,592.65
+ORD100452,2024-10-04,Printed Kurti,Fashion,Kolkata,West Bengal,1,228.82,0.05,Delivered,3.0,217.379
+ORD100453,2024-01-16,Formal Shirt,Fashion,Bengaluru,Karnataka,2,283.08,0.05,Delivered,4.0,537.852
+ORD100454,2024-07-22,Stainless Tiffin,Kitchen,Ahmedabad,Gujarat,1,1196.72,0.05,Pending,,1136.884
+ORD100455,2024-05-21,Scented Candle,Home,Bengaluru,Karnataka,2,210.56,0.05,Returned,,400.06399999999996
+ORD100456,2024-06-07,Phone Cover,Accessories,Pune,Maharashtra,3,434.55,0.2,Returned,,1042.92
+ORD100457,2024-11-02,Scented Candle,Home,Mumbai,Maharashtra,1,689.19,0.15,Pending,,585.8115
+ORD100458,2024-05-08,Yoga Mat,Fitness,Delhi,Delhi,1,720.53,0.0,Delivered,3.0,720.53
+ORD100459,2024-04-20,Formal Shirt,Fashion,Pune,Maharashtra,1,729.88,0.0,Returned,,729.88
+ORD100460,2024-05-09,Scented Candle,Home,Bengaluru,Karnataka,1,558.45,0.1,Delivered,5.0,502.6050000000001
+ORD100461,2024-12-22,Scented Candle,Home,Bengaluru,Karnataka,1,547.26,0.15,Returned,,465.171
+ORD100462,2024-02-20,Phone Cover,Accessories,Pune,Maharashtra,2,1289.46,0.15,Pending,,2192.082
+ORD100463,2024-08-05,Printed Kurti,Fashion,Chennai,Tamil Nadu,1,459.96,0.05,Returned,,436.96199999999993
+ORD100464,2024-09-17,Yoga Mat,Fitness,Bengaluru,Karnataka,1,438.49,0.0,Pending,,438.49
+ORD100465,2024-09-07,Formal Shirt,Fashion,Delhi,Delhi,1,252.31,0.0,Pending,,252.31
+ORD100466,2024-05-20,Kids Toy Car,Toys,Surat,Gujarat,3,702.33,0.05,Delivered,4.0,2001.6405000000002
+ORD100467,2024-03-11,Unknown Product,Fitness,Unknown,Unknown,1,550.47,0.05,Delivered,4.0,522.9465
+ORD100468,2024-03-15,Yoga Mat,Fitness,Ahmedabad,Gujarat,1,712.03,0.1,Delivered,4.0,640.827
+ORD100469,2024-01-30,LED Bulb Pack,Electronics,Bengaluru,Karnataka,1,165.25,0.15,Returned,,140.4625
+ORD100470,2024-10-26,Printed Kurti,Fashion,Surat,Gujarat,1,594.6,0.3,Pending,,416.21999999999997
+ORD100471,2024-09-14,Formal Shirt,Fashion,Mumbai,Maharashtra,1,448.87,0.0,Returned,,448.87
+ORD100472,2024-08-19,Scented Candle,Home,Bengaluru,Karnataka,1,365.98,0.1,Returned,,329.382
+ORD100473,2024-03-11,LED Bulb Pack,Electronics,Bengaluru,Karnataka,1,459.26,0.05,Pending,,436.29699999999997
+ORD100474,2024-10-07,Scented Candle,Home,Bengaluru,Karnataka,3,681.08,0.0,Returned,,2043.2400000000002
+ORD100475,2024-05-21,Wooden Side Table,Home,Pune,Maharashtra,1,907.19,0.05,Pending,,861.8305
+ORD100476,2024-08-25,Makeup Kit,Beauty,Ahmedabad,Gujarat,1,139.94,0.05,Returned,,132.94299999999998
+ORD100477,2024-07-26,Stainless Tiffin,Kitchen,Hyderabad,Telangana,1,482.57,0.15,Delivered,5.0,410.18449999999996
+ORD100478,2024-12-17,Phone Cover,Accessories,Ahmedabad,Gujarat,1,541.03,0.05,Delivered,3.0,513.9784999999999
+ORD100479,2024-06-20,Yoga Mat,Fitness,Jaipur,Rajasthan,1,497.71,0.15,Returned,,423.0535
+ORD100480,2024-07-14,Phone Cover,Accessories,Pune,Maharashtra,1,106.33,0.0,Pending,,106.33
+ORD100481,2024-11-13,Kids Toy Car,Toys,Bengaluru,Karnataka,1,605.01,0.3,Delivered,5.0,423.50699999999995
+ORD100482,2024-12-05,Scented Candle,Home,Bengaluru,Karnataka,3,251.77,0.05,Returned,,717.5445
+ORD100483,2024-12-05,Wooden Side Table,Home,Ahmedabad,Gujarat,1,540.72,0.15,Returned,,459.612
+ORD100484,2024-10-03,Formal Shirt,Fashion,Delhi,Delhi,1,192.08,0.0,Pending,,192.08
+ORD100485,2024-02-02,Printed Kurti,Fashion,Chennai,Tamil Nadu,1,537.97,0.05,Delivered,4.0,511.0715
+ORD100486,2024-12-17,Phone Cover,Accessories,Ahmedabad,Gujarat,1,991.35,0.2,Pending,,793.08
+ORD100487,2024-02-05,LED Bulb Pack,Electronics,Pune,Maharashtra,3,487.2,0.15,Delivered,4.0,1242.36
+ORD100489,2024-06-02,Kids Toy Car,Toys,Mumbai,Maharashtra,2,427.98,0.05,Pending,,813.162
+ORD100490,2024-05-29,Yoga Mat,Fitness,Hyderabad,Telangana,1,772.63,0.1,Delivered,4.0,695.367
+ORD100491,2024-01-11,Yoga Mat,Fitness,Hyderabad,Telangana,1,639.79,0.05,Returned,,607.8004999999999
+ORD100492,2024-11-03,Printed Kurti,Fashion,Kolkata,West Bengal,1,576.59,0.1,Delivered,3.0,518.931
+ORD100493,2024-04-21,LED Bulb Pack,Electronics,Mumbai,Maharashtra,1,1066.64,0.1,Returned,,959.9760000000001
+ORD100495,2024-01-08,Wooden Side Table,Home,Delhi,Delhi,1,258.52,0.1,Returned,,232.66799999999998
+ORD100496,2024-08-01,Makeup Kit,Beauty,Bengaluru,Karnataka,1,905.71,0.0,Pending,,905.71
+ORD100497,2024-06-13,Scented Candle,Home,Surat,Gujarat,1,765.69,0.0,Delivered,5.0,765.69
+ORD100498,2024-04-26,Phone Cover,Accessories,Hyderabad,Telangana,1,732.14,0.05,Delivered,4.0,695.5329999999999
+ORD100499,2024-06-12,Wooden Side Table,Home,Hyderabad,Telangana,1,943.35,0.1,Pending,,849.015
+ORD200000,2024-06-26,Stainless Tiffin,Kitchen,Jaipur,Rajasthan,2,404.71,0.0,Delivered,5.0,809.42
+ORD200001,2024-08-19,Printed Kurti,Fashion,Ahmedabad,Gujarat,2,709.8,0.05,Pending,,1348.62
+ORD200002,2024-08-11,Printed Kurti,Fashion,Surat,Gujarat,3,624.67,0.1,Delivered,5.0,1686.609
+ORD200003,2024-04-23,Kids Toy Car,Toys,Bengaluru,Karnataka,1,565.91,0.0,Delivered,4.0,565.91
+ORD200004,2024-05-17,Printed Kurti,Fashion,Jaipur,Rajasthan,3,378.63,0.05,Delivered,4.0,1079.0955
+ORD200005,2024-03-13,Phone Cover,Accessories,Pune,Maharashtra,1,196.24,0.15,Pending,,166.804
+ORD200006,2024-07-22,Yoga Mat,Fitness,Delhi,Delhi,1,323.45,0.1,Delivered,4.0,291.105
+ORD200007,2024-07-30,Printed Kurti,Fashion,Surat,Gujarat,1,416.78,0.1,Pending,,375.102
+ORD200008,2024-08-03,Stainless Tiffin,Kitchen,Surat,Gujarat,2,450.51,0.05,Delivered,5.0,855.9689999999999
+ORD200009,2024-01-17,Printed Kurti,Fashion,Ahmedabad,Gujarat,2,352.36,0.1,Pending,,634.248
+ORD200010,2024-04-08,Printed Kurti,Fashion,Kolkata,West Bengal,1,471.72,0.15,Pending,,400.962
+ORD200011,2024-11-02,Printed Kurti,Fashion,Kolkata,West Bengal,3,294.38,0.0,Delivered,4.0,883.14
+ORD200012,2024-10-11,Unknown Product,Home,Unknown,Unknown,1,550.47,0.05,Pending,,522.9465
+ORD200013,2024-10-26,Yoga Mat,Fitness,Delhi,Delhi,1,419.35,0.1,Pending,,377.415
+ORD200014,2024-02-21,Kids Toy Car,Toys,Kolkata,West Bengal,2,626.05,0.05,Delivered,4.0,1189.495
+ORD200015,2024-05-11,Wooden Side Table,Home,Surat,Gujarat,1,479.05,0.1,Pending,,431.14500000000004
+ORD200016,2024-09-27,Printed Kurti,Fashion,Ahmedabad,Gujarat,2,604.77,0.0,Delivered,4.0,1209.54
+ORD200017,2024-11-11,Yoga Mat,Fitness,Bengaluru,Karnataka,1,430.78,0.05,Delivered,4.0,409.24099999999993
+ORD200018,2024-01-15,Printed Kurti,Fashion,Ahmedabad,Gujarat,3,424.92,0.1,Delivered,4.0,1147.284
+ORD200019,2024-11-03,Phone Cover,Accessories,Mumbai,Maharashtra,1,247.94,0.1,Delivered,4.0,223.14600000000002
+ORD200020,2024-05-02,Scented Candle,Home,Mumbai,Maharashtra,1,493.6,0.05,Delivered,3.0,468.92
+ORD200021,2024-11-12,Makeup Kit,Beauty,Pune,Maharashtra,2,276.83,0.0,Pending,,553.66
+ORD200022,2024-01-15,LED Bulb Pack,Electronics,Chennai,Tamil Nadu,2,176.02,0.0,Pending,,352.04
+ORD200023,2024-05-18,Phone Cover,Accessories,Chennai,Tamil Nadu,1,217.24,0.1,Delivered,5.0,195.51600000000002
+ORD200024,2024-04-16,Formal Shirt,Fashion,Kolkata,West Bengal,1,557.24,0.1,Delivered,4.0,501.516
+ORD200025,2024-06-18,Stainless Tiffin,Kitchen,Kolkata,West Bengal,1,302.04,0.05,Delivered,4.0,286.938
+ORD200026,2024-12-13,Kids Toy Car,Toys,Ahmedabad,Gujarat,1,166.92,0.1,Delivered,3.0,150.22799999999998
+ORD200027,2024-07-11,Wooden Side Table,Home,Bengaluru,Karnataka,1,501.51,0.05,Pending,,476.43449999999996
+ORD200028,2024-12-24,LED Bulb Pack,Electronics,Kolkata,West Bengal,1,365.17,0.05,Pending,,346.9115
+ORD200029,2024-10-09,Unknown Product,Accessories,Unknown,Unknown,1,550.47,0.1,Delivered,4.0,495.42300000000006
+ORD200030,2024-08-21,Printed Kurti,Fashion,Pune,Maharashtra,2,543.4,0.05,Delivered,3.0,1032.4599999999998
+ORD200031,2024-05-04,Makeup Kit,Beauty,Chennai,Tamil Nadu,1,283.86,0.05,Delivered,5.0,269.667
+ORD200032,2024-09-13,Printed Kurti,Fashion,Kolkata,West Bengal,2,460.61,0.05,Delivered,3.0,875.159
+ORD200033,2024-08-22,Phone Cover,Accessories,Ahmedabad,Gujarat,1,527.3,0.05,Pending,,500.93499999999995
+ORD200034,2024-09-24,Printed Kurti,Fashion,Bengaluru,Karnataka,1,507.61,0.1,Delivered,5.0,456.84900000000005
+ORD200035,2024-01-17,Wooden Side Table,Home,Ahmedabad,Gujarat,3,186.14,0.1,Pending,,502.578
+ORD200036,2024-08-26,Formal Shirt,Fashion,Kolkata,West Bengal,1,496.52,0.0,Delivered,4.0,496.52
+ORD200037,2024-01-30,Phone Cover,Accessories,Mumbai,Maharashtra,2,419.85,0.05,Pending,,797.715
+ORD200038,2024-05-21,Yoga Mat,Fitness,Pune,Maharashtra,1,199.6,0.05,Pending,,189.61999999999998
+ORD200039,2024-01-13,Stainless Tiffin,Kitchen,Bengaluru,Karnataka,1,391.84,0.0,Delivered,3.0,391.84
+ORD200040,2024-09-20,Formal Shirt,Fashion,Jaipur,Rajasthan,2,366.91,0.05,Delivered,5.0,697.129
+ORD200041,2024-01-27,Printed Kurti,Fashion,Bengaluru,Karnataka,1,237.79,0.05,Delivered,5.0,225.9005
+ORD200042,2024-05-20,Stainless Tiffin,Kitchen,Kolkata,West Bengal,2,411.63,0.05,Delivered,4.0,782.097
+ORD200043,2024-08-22,Phone Cover,Accessories,Mumbai,Maharashtra,1,286.08,0.0,Delivered,4.0,286.08
+ORD200044,2024-05-24,Yoga Mat,Fitness,Ahmedabad,Gujarat,1,549.35,0.1,Delivered,4.0,494.415
+ORD200045,2024-08-10,LED Bulb Pack,Electronics,Delhi,Delhi,1,295.15,0.0,Delivered,5.0,295.15
+ORD200046,2024-06-03,Makeup Kit,Beauty,Kolkata,West Bengal,1,337.98,0.05,Delivered,4.0,321.081
+ORD200047,2024-04-06,Yoga Mat,Fitness,Chennai,Tamil Nadu,3,325.56,0.05,Delivered,4.0,927.846
+ORD200048,2024-07-12,Printed Kurti,Fashion,Bengaluru,Karnataka,2,629.12,0.0,Pending,,1258.24
+ORD200049,2024-02-15,Printed Kurti,Fashion,Surat,Gujarat,1,417.47,0.0,Delivered,3.0,417.47
+ORD200050,2024-09-30,Stainless Tiffin,Kitchen,Chennai,Tamil Nadu,3,550.47,0.05,Delivered,4.0,1568.8395
+ORD200051,2024-04-20,Phone Cover,Accessories,Jaipur,Rajasthan,2,214.28,0.0,Pending,,428.56
+ORD200052,2024-03-18,Scented Candle,Home,Ahmedabad,Gujarat,1,358.04,0.15,Delivered,3.0,304.334
+ORD200053,2024-06-24,Printed Kurti,Fashion,Delhi,Delhi,1,511.91,0.05,Delivered,4.0,486.3145
+ORD200054,2024-02-04,Scented Candle,Home,Ahmedabad,Gujarat,3,445.31,0.0,Pending,,1335.93
+ORD200055,2024-09-16,Formal Shirt,Fashion,Kolkata,West Bengal,1,199.49,0.05,Delivered,5.0,189.5155
+ORD200056,2024-08-01,Kids Toy Car,Toys,Delhi,Delhi,1,252.99,0.0,Pending,,252.99
+ORD200057,2024-11-26,Phone Cover,Accessories,Chennai,Tamil Nadu,1,312.17,0.05,Delivered,5.0,296.5615
+ORD200058,2024-11-04,Kids Toy Car,Toys,Bengaluru,Karnataka,1,228.1,0.1,Delivered,4.0,205.29
+ORD200059,2024-02-17,Makeup Kit,Beauty,Hyderabad,Telangana,1,357.4,0.1,Delivered,4.0,321.65999999999997
+ORD100361,2024-11-18,Makeup Kit,Beauty,Delhi,Delhi,1,613.48,0.05,Pending,,582.806
+ORD200017,2024-11-11,Yoga Mat,Fitness,Bengaluru,Karnataka,1,430.78,0.05,Delivered,4.0,409.24099999999993
+ORD100349,2024-06-25,LED Bulb Pack,Electronics,Pune,Maharashtra,1,721.77,0.1,Returned,,649.593
+ORD100486,2024-12-17,Phone Cover,Accessories,Ahmedabad,Gujarat,1,991.35,0.2,Pending,,793.08
+ORD100475,2024-05-21,Wooden Side Table,Home,Pune,Maharashtra,1,907.19,0.05,Pending,,861.8305
+ORD100483,2024-12-05,Wooden Side Table,Home,Ahmedabad,Gujarat,1,540.72,0.15,Returned,,459.612
+ORD100029,2024-10-16,LED Bulb Pack,Electronics,Hyderabad,Telangana,2,644.35,0.05,Pending,,1224.2649999999999
+ORD100236,2024-04-06,Phone Cover,Accessories,Delhi,Delhi,1,766.5,0.0,Delivered,4.0,766.5
+ORD100168,2024-07-29,Kids Toy Car,Toys,Kolkata,West Bengal,1,306.85,0.05,Returned,,291.5075
+ORD100065,2024-02-07,Makeup Kit,Beauty,Delhi,Delhi,2,764.2,0.05,Pending,,1451.98
