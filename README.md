@@ -54,9 +54,9 @@ SQL-based analysis helps:
 
 
 **How to Use**  
-1. Import the dataset into MySQL
-2. Run meesho_sales_final.sql
-3.Execute queries to view KPIs and insights
+1. Import the dataset into MySQL  
+2. Run meesho_sales_final.sql  
+3. Execute queries to view KPIs and insights  
 
 
 **Author**  
