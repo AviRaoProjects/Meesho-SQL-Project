@@ -59,7 +59,7 @@ SQL-based analysis helps:
 3. Execute queries to view KPIs and insights  
 
 
-**Author**  
-Avinash Vidyasagar Rao  
-Data Analyst | Python | SQL | Power BI  
-GitHub: https://github.com/AviRaoProjects  
+## Author
+**Avinash Vidyasagar Rao**  
+Aspiring Data Analyst | SQL | Excel | Power BI | Python  
+GitHub: [AviRaoProjects](https://github.com/AviRaoProjects)  
